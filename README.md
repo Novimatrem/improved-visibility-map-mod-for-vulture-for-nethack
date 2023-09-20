@@ -14,11 +14,9 @@ You can download the mod here; (be sure to follow the installation instructions)
 
 Clone the repo if you know how, that contains all you will need, alternatively;
 
-Main download link: https://gitlab.com/Novimatrem/improved-visibility-map-mod-for-vulture-for-nethack/-/archive/master/improved-visibility-map-mod-for-vulture-for-nethack-main.zip
+Main download link: https://gitlab.com/Novimatrem/improved-visibility-map-mod-for-vulture-for-nethack/-/archive/main/improved-visibility-map-mod-for-vulture-for-nethack-main.zip
 
 Secondary mirror: https://novimatrem.itch.io/improved-visibility-map-mod-for-vulture-for-nethack
-
-​This mod can also be found on Mod DB: https://www.moddb.com/downloads/improved-visibility-map-mod-for-vulture-for-nethack
 
 # Installation
 
