@@ -4,9 +4,9 @@ Replaces the default spritesheet for the ascii Map with a more readable contrast
 
 # Screenshots
 
-![Screenshot 1](https://gitlab.com/Novimatrem/improved-visibility-map-mod-for-vulture-for-nethack/-/raw/master/screenshot1.png)
+![Screenshot 1](https://gitlab.com/Novimatrem/improved-visibility-map-mod-for-vulture-for-nethack/-/raw/main/screenshot1.png)
 
-![Screenshot 2](https://gitlab.com/Novimatrem/improved-visibility-map-mod-for-vulture-for-nethack/-/raw/master/screenshot2.png)
+![Screenshot 2](https://gitlab.com/Novimatrem/improved-visibility-map-mod-for-vulture-for-nethack/-/raw/main/screenshot2.png)
 
 # Download
 
